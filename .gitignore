@@ -7,6 +7,8 @@ wheels/
 *.egg-info
 .env
 .vscode/
+.DS_Store
+assets
 
 # Virtual environments
 .venv
